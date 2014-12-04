@@ -10,6 +10,7 @@ module Dirble
 
     def execute
       guard_query_params
+      replace_placeholder_with_api_key
       connection.send(request_type, query)
     end
 
@@ -19,6 +20,10 @@ module Dirble
 
     def guard_query_params
       raise Dirble::Errors::InvalidRequestType, 'Bad request type provided. Please use :get or :post' unless REQUEST_TYPES.include?(request_type)
+    end
+
+    def replace_placeholder_with_api_key
+      query.gsub!("{{api_key}}", Dirble.api_key)
     end
   end
 end

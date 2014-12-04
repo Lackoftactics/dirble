@@ -1,3 +1,4 @@
+require 'active_support/all'
 require 'dirble/errors'
 require 'dirble/configurable'
 require 'dirble/connection'
