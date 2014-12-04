@@ -1,4 +1,12 @@
 require 'pry'
-require 'webmock'
+require 'webmock/rspec'
 require 'dirble'
 require 'support/fake_dirble_api'
+
+WebMock.disable_net_connect!(allow_localhost: true)
+
+RSpec.configure do |config|
+  config.before(:each) do
+    stub_request(:any, /api.dirble.com/).to_rack(FakeDirbleApi)
+  end
+end

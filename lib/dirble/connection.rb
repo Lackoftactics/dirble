@@ -1,3 +1,4 @@
+require_relative 'query_executer'
 require 'typhoeus'
 require 'typhoeus/adapters/faraday'
 
@@ -6,7 +7,7 @@ module Dirble
     DIRBLE_API_URL = 'http://api.dirble.com/v1'
 
     def exec_query(query_params)
-      QueryExecuter.new(self, query_params).execute
+      QueryExecuter.new(connection, query_params).execute
     end
 
     private
