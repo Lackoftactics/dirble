@@ -1,0 +1,252 @@
+{
+urlid: "radio-252",
+image: "",
+id: "11717",
+name: "Radio 252",
+description: "",
+website: "http://radio252.fm",
+added: "2014-11-25 22:58:55",
+country: "US",
+bitrate: "128",
+streamurl: "http://s7.viastreaming.net:8640",
+status: "2",
+songhistory: [
+{
+_id: {
+$id: "54805908d4ca1a6e482cbdba"
+},
+info: {
+image: "http://cdn.devality.com/albums/Ted_Nugent___the_Amboy_Dukes_Loaded_for_Bear__The_Best_of_Ted_Nugent_and_the_Amboy_Dukes.jpg",
+_id: {
+$id: "543845e1d4ca1a1a5f7ad398"
+},
+name: "ted nugent & the amboy dukes",
+urls: {
+spotify: null
+},
+title: "journey to the center of the mind"
+},
+name: "Ted Nugent & The Amboy Dukes",
+title: "Journey To The Center Of The Mind",
+date: {
+sec: 1417697544,
+usec: 783000
+}
+},
+{
+_id: {
+$id: "54805818d4ca1a6e372cbe23"
+},
+info: {
+image: "http://cdn.devality.com/albums/The_Police_The_Very_Best_Of_Sting_And_The_Police.png",
+_id: {
+$id: "532769a4d4ca1a5ba3483993"
+},
+name: "the police",
+urls: {
+spotify: "spotify:track:275KAjHjZOtnTVWZ2Kcr7k"
+},
+title: "walking on the moon"
+},
+name: "The Police",
+title: "Walking On The Moon",
+date: {
+sec: 1417697304,
+usec: 926000
+}
+},
+{
+_id: {
+$id: "54805728d4ca1a6e322cbe91"
+},
+info: {
+image: "http://cdn.devality.com/albums/The_Fixx_Reach_The_Beach.jpg",
+_id: {
+$id: "5327a97fd4ca1a22ac9ea85d"
+},
+name: "the fixx",
+urls: {
+spotify: "spotify:track:3EEJiZZ8b3Ke2bK0ylgvlh"
+},
+title: "saved by zero"
+},
+name: "The Fixx",
+title: "Saved By Zero",
+date: {
+sec: 1417697064,
+usec: 661000
+}
+},
+{
+_id: {
+$id: "54805637d4ca1a6e2d2cbca3"
+},
+info: {
+image: "http://cdn.devality.com/albums/David_Bowie_The_Singles_Collection___CD_0.png",
+_id: {
+$id: "532767c9d4ca1a5cce302f6b"
+},
+name: "david bowie",
+urls: {
+spotify: "spotify:track:4r8cI0SCP8c0juGDEMreEW"
+},
+title: "fame"
+},
+name: "David Bowie",
+title: "Fame",
+date: {
+sec: 1417696823,
+usec: 664000
+}
+},
+{
+_id: {
+$id: "54805547d4ca1a6e4a2cbd9c"
+},
+info: {
+image: "http://cdn.devality.com/albums/THE_DOOBIE_BROTHERS_Best_of_The_Doobies.jpg",
+_id: {
+$id: "53275dc0d4ca1a5cce302b93"
+},
+name: "the doobie brothers",
+urls: {
+spotify: "spotify:track:72sHB1oKxtDxoRwmwyI3A8"
+},
+title: "listen to the music"
+},
+name: "The Doobie Brothers",
+title: "Listen to the Music",
+date: {
+sec: 1417696583,
+usec: 595000
+}
+},
+{
+_id: {
+$id: "54805367d4ca1a6e2a2cbc87"
+},
+info: {
+image: "http://cdn.devality.com/albums/Heart_Greatest_Hits.jpg",
+_id: {
+$id: "53276e26d4ca1a5c8bdec835"
+},
+name: "heart",
+urls: {
+spotify: "spotify:track:38bHLl4pznhxzRJLuw1OA7"
+},
+title: "barracuda"
+},
+name: "Heart",
+title: "Barracuda",
+date: {
+sec: 1417696103,
+usec: 891000
+}
+},
+{
+_id: {
+$id: "54805278d4ca1a6e342cbc5d"
+},
+info: {
+image: "http://cdn.devality.com/albums/Tom_Petty___The_Heartbreakers_Anthology__Through_the_Years.jpg",
+_id: {
+$id: "540a86d4d4ca1a50aabc5481"
+},
+name: "tom petty & the heartbreakers",
+urls: {
+spotify: "spotify:track:1wtLLUSRYcHAqKv1oBH2TE"
+},
+title: "change of heart"
+},
+name: "Tom Petty & the Heartbreakers",
+title: "Change of Heart",
+date: {
+sec: 1417695864,
+usec: 107000
+}
+},
+{
+_id: {
+$id: "5480510fd4ca1a6e482cbb7b"
+},
+info: {
+image: "http://cdn.devality.com/albums/Van_Halen_Best_of_Van_Halen__Volume_1.jpg",
+_id: {
+$id: "532764d2d4ca1a5c4abad657"
+},
+name: "van halen",
+urls: {
+spotify: "spotify:track:6N1sNzq3CArC1pMSaZTxaT"
+},
+title: "right now"
+},
+name: "Van Halen",
+title: "Right Now",
+date: {
+sec: 1417695503,
+usec: 98000
+}
+},
+{
+_id: {
+$id: "54804fa7d4ca1a6e482cbb12"
+},
+info: {
+image: "http://cdn.devality.com/albums/REO_Speedwagon_The_Hits.jpg",
+_id: {
+$id: "5327a744d4ca1a5cce3042b7"
+},
+name: "reo speedwagon",
+urls: {
+spotify: "spotify:track:0mLbE6jd8xwQEOEWSlxOxn"
+},
+title: "roll with the changes"
+},
+name: "REO Speedwagon",
+title: "Roll With the Changes",
+date: {
+sec: 1417695143,
+usec: 712000
+}
+},
+{
+_id: {
+$id: "54804f2cd4ca1a6e422cbbcc"
+},
+info: {
+image: "http://cdn.devality.com/albums/Santana_Greatest_Hits.jpg",
+_id: {
+$id: "53275f6ed4ca1a5c4abad452"
+},
+name: "santana",
+urls: {
+spotify: "spotify:track:4dMVqHsgtEisS573iDk1DB"
+},
+title: "everybody's everything"
+},
+name: "Santana",
+title: "Everybody's Everything",
+date: {
+sec: 1417695020,
+usec: 994000
+}
+}
+],
+streams: [
+{
+id: "6405",
+stream: "http://s7.viastreaming.net:8640",
+bitrate: "128",
+type: "audio/mpeg",
+status: "2",
+station: "11717"
+}
+],
+directory: [
+{
+id: "18",
+name: "Classic Rock",
+urlid: "classic-rock"
+}
+]
+}

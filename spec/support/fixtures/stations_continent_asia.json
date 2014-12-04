@@ -1,0 +1,92 @@
+[
+{
+id: 11720,
+name: "Lounge Beats",
+website: "http://tunein.com/radio/Lounge-Beats-s236283/",
+streamurl: "http://gemini.shoutca.st:8461/stream",
+country: "RU",
+bitrate: "128",
+status: 1
+},
+{
+id: 11699,
+name: "Maroc 212",
+website: "http://radiomaroc212.blogspot.com/",
+streamurl: "http://streaming.radionomy.com/Maroc212",
+country: "AF",
+bitrate: "128",
+status: 1
+},
+{
+id: 11692,
+name: "BlackBerry Soul Radio",
+website: "http://www.blackberrysoulradio.com",
+streamurl: "http://de1.radio-streams.com:2199/tunein/cashandspice.asx",
+country: "AF",
+bitrate: "0",
+status: 0
+},
+{
+id: 11688,
+name: "Dubai 92",
+website: "http://www.dubai92.com/",
+streamurl: "http://4083.live.streamtheworld.com/DUBAI_92AAC_SC",
+country: "AE",
+bitrate: "51",
+status: 1
+},
+{
+id: 11686,
+name: "U Radio Sri Lanka",
+website: "http://www.uradio.lk/",
+streamurl: "http://192.184.9.158:8481/live",
+country: "AF",
+bitrate: "64",
+status: 1
+},
+{
+id: 11685,
+name: "Kiss92 92.0 FM Singapore",
+website: "http://kiss92.sg/",
+streamurl: "http://sph.rastream.com/sph-kiss92",
+country: "SG",
+bitrate: "48",
+status: 1
+},
+{
+id: 11684,
+name: "The Live Radio Singapore",
+website: "http://www.theliveradio.sg/",
+streamurl: "http://77.92.76.134:8530",
+country: "SG",
+bitrate: "128",
+status: 1
+},
+{
+id: 11683,
+name: "Alif Alif FM",
+website: "http://www.alifaliffm.com/",
+streamurl: "http://www.alifaliffm.com:8800/AlifAlif.mp3",
+country: "SA",
+bitrate: "96",
+status: 1
+},
+{
+id: 11682,
+name: "Peace 104.3 FM",
+website: "http://www.peacefmonline.com/",
+streamurl: "http://67.159.60.45:8066",
+country: "AF",
+bitrate: "64",
+status: 1
+},
+{
+id: 11673,
+name: "KJRN Christian Talk Radio - Channel 1",
+website: "http://www.kjrn.net",
+streamurl: "http://50.7.71.29:9600",
+country: "AF",
+bitrate: "64",
+status: 1
+}
+]

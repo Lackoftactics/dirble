@@ -1,0 +1,3611 @@
+[
+{
+id: 11733,
+name: "Radio Kol Haneshama",
+website: "http://ateretisrael.com/",
+streamurl: "http://cp1.shoutcheap.com:2199/tunein/ateretis.asx",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11727,
+name: "Hippie Soul Radio",
+website: "http://www.hippiesoulradio.com",
+streamurl: "http://streaming.radionomy.com/HippieSoulRadio",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11725,
+name: "FLOW 103 - The Internet's #1 Hip Hop and R&b radio station ",
+website: "http://flow103.com",
+streamurl: "http://108.163.215.90:9700",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11717,
+name: "Radio 252",
+website: "http://radio252.fm",
+streamurl: "http://s7.viastreaming.net:8640",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11695,
+name: "Progressive Voices",
+website: "http://progressivevoices.com/",
+streamurl: "http://icy3.abacast.com/progvoices-progvoicesmp3-32",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11693,
+name: "Soma FM Lush",
+website: "http://somafm.com/lush/",
+streamurl: "http://xstream1.somafm.com:8800",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11691,
+name: "Radioio Acoustic Cafe",
+website: "http://www.radioio.com/",
+streamurl: "http://1721.live.streamtheworld.com:80/ACOUSTICAFE_S02P_AAC_SC",
+country: "US",
+bitrate: "133",
+status: 1
+},
+{
+id: 11676,
+name: "Hard Rock Heaven",
+website: "http://www.hrhradio.com",
+streamurl: "http://streaming.streamonomy.com/hrheaven",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11674,
+name: "KJRN Christian Talk Radio - Channel 2",
+website: "http://www.kjrn.net",
+streamurl: "http://50.7.71.30:9598",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 11656,
+name: "Mozart Radio",
+website: "http://mozart-radio.com",
+streamurl: "http://listen.radionomy.com/mozartradio",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11655,
+name: "Italo Disco",
+website: "http://italodisco.wix.com/index",
+streamurl: "http://listen.radionomy.com/italodisco",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11643,
+name: "Torch FM",
+website: "http://Torch.FM",
+streamurl: "http://91.121.1.157:3998",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11631,
+name: "The Force Online (T.F.O)",
+website: "http://www.radionomy.com/en/radio/theforceonline/index",
+streamurl: "http://streaming.radionomy.com/TheForceOnline",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11629,
+name: "SpazoCat FM Smooth Jazz Texas",
+website: "http://www.spazocatfm.com/",
+streamurl: "http://streaming.radionomy.com/SpazoCatFM",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11625,
+name: "Pop Source Radio",
+website: "http://www.popsourceradio.com/",
+streamurl: "http://sc1.slable.com:8048",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11572,
+name: "2 loco radio #Uncensored",
+website: "http://www.2locoradio.com",
+streamurl: "http://136.0.17.139:8013",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11563,
+name: "Indie Media Weekly Radio",
+website: "http://indiemediaweekly.com",
+streamurl: "http://209.105.232.220:8586",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11540,
+name: "Groove Salad",
+website: "http://somafm.com/groovesalad/",
+streamurl: "http://xstream1.somafm.com:8032",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11531,
+name: "Hippie Soul Cafe",
+website: "http://www.HippieSoulCafe.com",
+streamurl: "http://162.13.25.174/a11mn5xkb",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11491,
+name: "Best Big Mix Radio",
+website: "http://bestbigmixradio.com",
+streamurl: "http://streaming.radionomy.com/BestBigMix",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11481,
+name: "181.fm The Box 1 For Hiphop",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8024",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11469,
+name: "Rhythmradio.usa",
+website: "http://www.rhythmradio.us",
+streamurl: "http://s31.myradiostream.com:14484",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11467,
+name: "181.fm Rock 40",
+website: "http://www.181.fm",
+streamurl: "http://67.213.214.248:9880",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11425,
+name: "RadioTunes Salsa",
+website: "http://www.radiotunes.com/salsa",
+streamurl: "http://pub6.radiotunes.com:80/radiotunes_salsa?cbc68c1ed030a2f9",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11420,
+name: "Best Of Hits Urban Radio by Techni-Force",
+website: "http://www.BestOfHitsUrbanRadio.com",
+streamurl: "http://listen.radionomy.com:80/BestOfHitsUrbanRadio",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11414,
+name: "BeatLounge - Dance",
+website: "http://www.beatloungeradio.com",
+streamurl: "http://50.7.96.210:8327",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11404,
+name: "Power909",
+website: "http://www.power909.com/",
+streamurl: "http://www.serverroom.net/asx/listen266047.asx",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 11401,
+name: "I Love Fat - Greek Radio Station",
+website: "http://ilovefatradio.listen2myradio.com/",
+streamurl: "http://78.129.224.21:18092",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11398,
+name: "Flying Hits 101",
+website: "http://flyinghits101.weebly.com/",
+streamurl: "http://s6.myradiostream.com:7752/",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11394,
+name: "Digitally Imported Trance",
+website: "http://www.di.fm",
+streamurl: "http://pub9am.di.fm:80/di_trance",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11391,
+name: "JETRADIO 1",
+website: "http:// http://jetradio1.fastcast4u.com",
+streamurl: "http://eu2.fastcast4u.com:3516/",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11387,
+name: "Mix 104.9 KMHX",
+website: "http://www.mix1049.com",
+streamurl: "http://live.leanstream.co/KMHXFM-MP3",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 11386,
+name: "Hot 1017 KHTH",
+website: "http://www.hot1017.com",
+streamurl: "http://live.leanstream.co/KHTHFM-MP3",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 11385,
+name: "97.7 The River KVRV",
+website: "http://www.977theriver.com",
+streamurl: "http://live.leanstream.co/KVRVFM-MP3",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 11384,
+name: "Froggy 92.9 KFGY",
+website: "http://www.froggy929.com",
+streamurl: "http://live.leanstream.co/KFGYFM-MP3",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 11383,
+name: "KSRO",
+website: "http://www.ksro.com",
+streamurl: "http://live.leanstream.co/KSROAM-MP3",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 11377,
+name: "Shadows Radio - darkwave music",
+website: "http://www.shadowsradio.com/",
+streamurl: "http://streaming.radionomy.com/ShadowsRadio-EBMIndustrialSynthpop-",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11376,
+name: "Music of the gods - psychill radio",
+website: "http://www.musicofthegods.com/",
+streamurl: "http://streaming.radionomy.com/MUSICOFTHEGODSANDGODDESSES",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11363,
+name: "Cinemix",
+website: "",
+streamurl: "http://94.23.51.96:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11340,
+name: "Flying Country 101",
+website: "http://www.flyingcountry101.weebly.com",
+streamurl: "http://s6.myradiostream.com:7752",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11333,
+name: "420 Wthc Iradio",
+website: "http://www.420wthc.com",
+streamurl: "http://108.61.154.147:9958",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11328,
+name: "Prog Palace Radio",
+website: "",
+streamurl: "http://s04.whooshclouds.net:8175/live",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 11323,
+name: "Wudd Up Doe Radio.net",
+website: "http://wuddupdoeradio.net",
+streamurl: "http://199.101.51.195:8014/stream",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11304,
+name: "Radio Heartland",
+website: "http://www.thecurrent.org/heartland",
+streamurl: "http://radioheartland.stream.publicradio.org/radioheartland.mp3",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11280,
+name: "Radio W.E.E.D.",
+website: "http://radioweed.net",
+streamurl: "http://s31.myradiostream.com:6696",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11279,
+name: "FFCN Radio - The Worship Place",
+website: "http://www.ffcnradio.org",
+streamurl: "http://ffcnradio.serverhostingcenter.com:8255/stream",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11277,
+name: "radio techno zagreb",
+website: "http://kapital3.org",
+streamurl: "http://69.207.23.160:8000",
+country: "US",
+bitrate: "40",
+status: 1
+},
+{
+id: 11276,
+name: "Music 4 U",
+website: "http://kapital3.net",
+streamurl: "http://50.22.217.113:9492",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11266,
+name: "KEXP",
+website: "http://kexp.org/",
+streamurl: "http://live-aacplus-64.kexp.org/kexp64.aac",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 11244,
+name: "Cold Busted Radio",
+website: "http://coldbustedradio.com",
+streamurl: "http://195.154.217.103:8391/coldbustedradio",
+country: "US",
+bitrate: "320",
+status: 1
+},
+{
+id: 11237,
+name: "A-1 Audio Channel",
+website: "http://www.a-1audiochannel.com",
+streamurl: "http://162.251.160.2/a-1audiochannel",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11236,
+name: "A-1 Mix Radio",
+website: "http://www.a-1mix.com",
+streamurl: "http://162.251.160.2/a-1mixradio",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11230,
+name: "Rocker's Dive Radio",
+website: "http://www.rockersdive.com",
+streamurl: "http://108.6.47.186:8073",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11218,
+name: "Q.Us.In Radio",
+website: "http://www.Qusin.com",
+streamurl: "http://s8.voscast.com:9594",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11206,
+name: "Oldies That Rock",
+website: "http://oldiesthatrock.weebly.com/",
+streamurl: "http://curiosity.shoutca.st:8917",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11203,
+name: "Philly Funk Radio",
+website: "http://www.wpir.com",
+streamurl: "http://37.187.79.153:5684/;stream.mp3",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11197,
+name: "Philly Funk Radio",
+website: "http://www.wpir.us",
+streamurl: "http://37.187.79.153:5386",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11185,
+name: "power 93.5",
+website: "http://power935.weebly.com/",
+streamurl: "http://uk2-pn.mixstream.net:8280",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 11183,
+name: "Beer Run Bobby",
+website: "http://www.beerrunbobby.com",
+streamurl: "http://50.7.96.210:8223/stream",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 11135,
+name: "Kegr Radio Concord Ca Aaa Rock 128kbs",
+website: "",
+streamurl: "http://208.53.158.48:8248",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11089,
+name: "Edge Internet Radio",
+website: "http://www.EdgeInternetRadio.com",
+streamurl: "http://s7.voscast.com:8098",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 11078,
+name: "Rock Radio Classic Rock",
+website: "http://www.rockradio.com/",
+streamurl: "http://pub8.rockradio.com:80/rr_classicrock",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11076,
+name: "The Mad Music Asylum",
+website: "http://www.themadmusicasylum.com/",
+streamurl: "http://74.50.122.103:9670",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 11031,
+name: "RetroGold",
+website: "http://retrogold.us",
+streamurl: "http://216.224.169.142:8010",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 11003,
+name: "La Nueva Radio ",
+website: "http://www.lanuevaradio.com.mx",
+streamurl: "http://192.30.161.158:8002",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10970,
+name: "Galaxy 93.5",
+website: "http://www.galaxy935.com ",
+streamurl: "http://uk2-pn.webcast-server.net:8280",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 10969,
+name: "UltraGold",
+website: "http://ultragold.ws",
+streamurl: "http://216.224.169.142:8004",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10964,
+name: "181.fm Us 181 Hot Country",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.116:6056",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 10947,
+name: "Radioez",
+website: "http://starburstradio.com",
+streamurl: "http://216.224.169.142:8016",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10910,
+name: "Country Gold Radio",
+website: "http://countrygoldradio.us",
+streamurl: "http://216.224.169.142:8014",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10873,
+name: "ChuckU80s",
+website: "http://www.chuckuradio.com",
+streamurl: "http://streaming.radionomy.com/ChuckU80S",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10849,
+name: "HitzConnect Radio",
+website: "http://hitzconnect.com",
+streamurl: "http://bb.hitzconnect.com",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10837,
+name: "Dope Souf Radio",
+website: "http://dopesouf.playtheradio.com",
+streamurl: "http://streaming.radionomy.com/DopeSouf",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10835,
+name: "MiteWorks Radio †",
+website: "http://www.thechildrensmite.org/radio",
+streamurl: "http://198.27.83.198:5012/stream",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10826,
+name: "A-1 Audio Jazz",
+website: "http://a-1audionetwork.com/jazz/",
+streamurl: "http://162.251.160.2:80/a1jazzlow",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 10786,
+name: "Brutal Existence Radio",
+website: "http://www.BrutalExistenceRadio.net/",
+streamurl: "http://192.81.248.192:8038",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10783,
+name: "CLASSIC ROCK VAULT",
+website: "http://www.classicrockvault.com",
+streamurl: "http://199.180.72.2:8194",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10781,
+name: "Phone Fantasy Radio",
+website: "http://wwww.phonefantasyradio.com",
+streamurl: "http://67.215.229.99:8410",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10779,
+name: "Eagle Radio Network",
+website: "http://www.eagle-radio.com/",
+streamurl: "http://184.173.66.98:8020",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10755,
+name: "Urban HotSpot ",
+website: "http://www.urbanhotspotradio.com/",
+streamurl: "http://listen.radionomy.com/urbanhotspot",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10731,
+name: "PureSteele Communications",
+website: "http://www.puresteeleradio.com",
+streamurl: "http://69.10.36.226:8216",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 10709,
+name: "Metallica Megadeth Radio",
+website: "http://www.metallicamegadethradio.webs.com",
+streamurl: "http://192.240.97.67:8002",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10693,
+name: "Old Man Blues",
+website: "http://cabinboyradio.com",
+streamurl: "http://yuzu.citrus3.com:2199/tunein/williamschmalfeldt.qtl",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 10689,
+name: "Dakota Music Collective",
+website: "http://www.crgb.us",
+streamurl: "http://crgb.out.airtime.pro:8003",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10687,
+name: "Your Hometown Radio",
+website: "http://www.yourhometownradio.com",
+streamurl: "http://206.190.130.180:8080",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10661,
+name: "Kegr Radio New Server 128 Kbs Concord Ca Aaa Rock And Blues",
+website: "",
+streamurl: "http://50.7.70.66:8591",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 10607,
+name: "Quran Radio Tafsir",
+website: "",
+streamurl: "http://206.72.199.179:9992",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 10598,
+name: "Haitian American Help Assistance",
+website: "",
+streamurl: "http://77.67.106.13:10322",
+country: "US",
+bitrate: "24",
+status: 1
+},
+{
+id: 10456,
+name: "Americas Country",
+website: "",
+streamurl: "http://162.251.160.2:80/americascountryhigh",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10424,
+name: "Chicagos Variety Station",
+website: "http://www.chicagosvarietystation.com",
+streamurl: "http://69.175.13.130:8000",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 10417,
+name: "Pdr Radio Hd 3 Planet Dance Radio",
+website: "http://listen.dnrradio.com",
+streamurl: "http://23.116.93.203:8000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10407,
+name: "TheXstream.FM",
+website: "http://www.thexstream.fm",
+streamurl: "http://xstream.purestream.net:9060",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10397,
+name: "Fresh Jam Radio",
+website: "http://freshjamradio.com/",
+streamurl: "http://199.180.72.2:8078/stream",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10396,
+name: "PRX via WRVO",
+website: "http://wrvo.org/schedule/wrvo2",
+streamurl: "http://pubint.ic.llnwd.net/stream/pubint_wrvo2",
+country: "US",
+bitrate: "32",
+status: 1
+},
+{
+id: 10388,
+name: "A1 Bluegrass Favorites",
+website: "",
+streamurl: "http://162.251.160.2:80/a1bluegrasshigh",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10364,
+name: "United Fm Radio Torrington Connecticut",
+website: "http://www.unitedfmradio.com",
+streamurl: "http://173.0.52.179:8007",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10354,
+name: "181.fm Lite 80s",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:14040",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 10348,
+name: "Rebelradiolink",
+website: "http://rebelradiolink.com",
+streamurl: "http://stardust.wavestreamer.com:5160/Live",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10336,
+name: "Route 66 Radio 70s 80s 90s 00s Today Work Mix Light Rock Best Of Weather Fox News",
+website: "http://www.route66radio.us",
+streamurl: "http://68.168.101.146:8403",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10322,
+name: "Country Gold Network",
+website: "http://cgn2012.serverroom.us",
+streamurl: "http://38.96.175.21:9876",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 10302,
+name: "Todays Texas Country",
+website: "http://www.todaystexascountry.com",
+streamurl: "http://69.4.230.76:8100",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10298,
+name: "Black Aces Radio",
+website: "http://www.blackaces.com.br",
+streamurl: "http://knight.wavestreamer.com:2151/Live",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10296,
+name: "Papabear",
+website: "http://www.phofm.net",
+streamurl: "http://198.178.123.23:7726",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10276,
+name: "Anarchy Gaming Radio",
+website: "http://www.anarchy-gaming.net",
+streamurl: "http://174.123.20.130:8270",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10239,
+name: "Kcsn Latin Alt",
+website: "http://www.latinalt.org",
+streamurl: "http://130.166.82.14:8050",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10173,
+name: "American Kick Ass Country",
+website: "",
+streamurl: "http://69.175.22.146:7022",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10165,
+name: "Radio4life",
+website: "http://www.radio4life.us",
+streamurl: "http://198.50.160.102:9878",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10161,
+name: "1.fm Ottos Classical Musick Radio",
+website: "http://www.1.fm",
+streamurl: "http://205.164.36.16:80",
+country: "US",
+bitrate: "56",
+status: 1
+},
+{
+id: 10138,
+name: "Radio Decadas",
+website: "http://www.radiodecadas.us",
+streamurl: "http://174.37.194.139:8316",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 10127,
+name: "Mustang",
+website: "",
+streamurl: "http://peace.str3am.com:6320/mustang",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 10123,
+name: "1.fm Ottos Opera House Radio",
+website: "http://www.1.fm",
+streamurl: "http://205.164.36.40:80",
+country: "US",
+bitrate: "56",
+status: 1
+},
+{
+id: 10105,
+name: "Nvm Radio",
+website: "",
+streamurl: "http://nvmradio.wohooo.net:8000/airtime_128",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10085,
+name: "Punch Radio 1.fm Tm",
+website: "http://www.1.fm",
+streamurl: "http://205.164.35.163:80",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 10073,
+name: "Shockwaves",
+website: "http://www.181.fm",
+streamurl: "http://69.175.22.146:7000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10063,
+name: "Radiorb",
+website: "http://www.rbplay.com",
+streamurl: "http://67.212.173.251:8550",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 10049,
+name: "Eleven Iradiophilly",
+website: "",
+streamurl: "http://peace.str3am.com:6320/eleven",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 9962,
+name: "Mobb Report Radio 247 All Bay All Day",
+website: "http://www.mobbreportradio.com",
+streamurl: "http://majestic.wavestreamer.com:7638/Live",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9872,
+name: "American Mix Radio 760",
+website: "http://www.americanmixradio760.com",
+streamurl: "http://208.43.33.114:11520",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9832,
+name: "Eightball",
+website: "",
+streamurl: "http://peace.str3am.com:6320/eightball",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 9828,
+name: "Bandstand",
+website: "",
+streamurl: "http://peace.str3am.com:6320/bandstand",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 9822,
+name: "Good Karma Radio With Daddi The Voice Of Internet Radio",
+website: "http://www.goodkarmaradio.com",
+streamurl: "http://69.64.92.79:8204",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 9818,
+name: "Dagnys Jukebox",
+website: "http://www.dagny.us",
+streamurl: "http://213.65.80.85:8000",
+country: "US",
+bitrate: "80",
+status: 1
+},
+{
+id: 9815,
+name: "Boot Liquor Americana Roots Music For Cowhands Cowpokes And Cowtippers. Somafm",
+website: "http://www.somafm.com",
+streamurl: "http://38.104.130.91:7002",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9808,
+name: "Always Christmas Radio 1.fm Tm",
+website: "http://www.1.fm",
+streamurl: "http://205.164.35.94:80",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9805,
+name: "Dubstep Forward Radio 1.fm Tm",
+website: "http://www.1.fm",
+streamurl: "http://205.164.36.159:80",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9791,
+name: "181.fm 80s Country",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.118:8134",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9773,
+name: "Aussie Golden Classics",
+website: "http://wwwyesteryears.us",
+streamurl: "http://78.129.196.102:8200",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 9547,
+name: "Krypton Radio - Sci-Fi for your Wifi",
+website: "http://kryptonradio.com",
+streamurl: "http://station.kryptonradio.com:8000/stream",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9535,
+name: "Whwr Clifton Njs Easy Listening Online Radio Station",
+website: "http://www.cliftononlineradio.com",
+streamurl: "http://50.7.234.130:8290",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9534,
+name: "Yknot Radio",
+website: "http://yknotradio.com",
+streamurl: "http://23.29.114.18:8004",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9523,
+name: "Kona Stream Mobile",
+website: "http://www.konastream.com",
+streamurl: "http://208.43.9.96:8396",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 9520,
+name: "Zecom Radio Gemz Radio Vintage Top 40 From Chicago",
+website: "http://www.gemzradio.net",
+streamurl: "http://208.80.53.106:10674",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 9513,
+name: "Therockbat.com",
+website: "http://www.therockbat.com",
+streamurl: "http://s6.voscast.com:7816",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9485,
+name: "Symphony",
+website: "",
+streamurl: "http://peace.str3am.com:6320/symphony",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 9469,
+name: "Redneck Radio 101 Paws Auto Server",
+website: "http://www.redneckradio101.com",
+streamurl: "http://74.86.34.43:8157",
+country: "US",
+bitrate: "112",
+status: 1
+},
+{
+id: 9463,
+name: "Club7 Radio",
+website: "http://www.club7radio.com",
+streamurl: "http://buddyvu.net:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9455,
+name: "Thevoyceradio.com Straight Ministry Heat",
+website: "http://www.thevoyceradio.com",
+streamurl: "http://174.36.206.197:8100",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9431,
+name: "Audiovision Agx Hit Music For Generation X",
+website: "http://www.agxradio.com",
+streamurl: "http://198.154.106.102:8484",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9394,
+name: "Tuptup Radio Ljubovija",
+website: "http://www.tup-tup.net",
+streamurl: "http://50.7.129.122:8229",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 9393,
+name: "Upstream Oldies",
+website: "http://www.prayforme.us",
+streamurl: "http://64.235.54.14:8004",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 9390,
+name: "Estereo Nueva Vida",
+website: "http://Www.estereonuevavidanuca.org",
+streamurl: "http://server.aacplus.com.gt:7606",
+country: "US",
+bitrate: "32",
+status: 1
+},
+{
+id: 9325,
+name: "Its All About Music Iaam Radio",
+website: "http://www.itsallaboutmusic.net",
+streamurl: "http://198.154.112.233:8899",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9321,
+name: "Jamz Iradiophilly",
+website: "",
+streamurl: "http://peace.str3am.com:6320/jamz",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 9308,
+name: "181.fm Reggae",
+website: "http://www.181.fm",
+streamurl: "http://108.61.35.91:8096",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9277,
+name: "Pillartunez",
+website: "http://pillar-tunez.com",
+streamurl: "http://pillar-tunez.com:8000",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 9166,
+name: "1fm Ottos Classical Musick Radio",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.11:8047",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 9147,
+name: "Pure Pop Hits",
+website: "http://www.purepophits.com",
+streamurl: "http://music.purepophits.com:80",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 9131,
+name: "New Normal Rock",
+website: "http://www.newnormalrock.com",
+streamurl: "http://music.newnormalrock.com:80",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9125,
+name: "Zecom Radio Gemz Radio Vintage Top 40 From Chicago",
+website: "http://www.gemzradio.net",
+streamurl: "http://212.48.126.146:8780",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9123,
+name: "181.fm Energy 98 Dance Hits",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8800",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9112,
+name: "181.fm Uk Top 40",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8070",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9109,
+name: "181.fm Mellow Gold",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.115:8060",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9097,
+name: "181.fm The Beatles Channel",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:8062",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 9079,
+name: "181.fm Us 181 Hot Country",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.118:8056",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9070,
+name: "Open Arms Ministry",
+website: "",
+streamurl: "http://rfe2-r1.alldigital.net:80/lmjc3635",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 9054,
+name: "Midnight Passions Radio",
+website: "http://www.midnightpassionsradio.com",
+streamurl: "http://64.34.170.176:15152",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9040,
+name: "The Penguin Rocks",
+website: "http://www.thepenguinrocks.com",
+streamurl: "http://50.7.96.138:8049",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 9036,
+name: "Hitz24 The Hits Only Station",
+website: "http://www.hitz24.com",
+streamurl: "http://176.56.233.51:8033",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9015,
+name: "181.fm Rock 181 Active Rock",
+website: "http://www.181.fm",
+streamurl: "http://69.4.232.112:8168",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 9011,
+name: "181.fm Soul",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8058",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8947,
+name: "Hiphop Request",
+website: "http://hiphoprequest.com/",
+streamurl: "http://209.151.160.148:7090",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 8848,
+name: "181.fm Party 181 Your Official Party Station",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.120:8036",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8846,
+name: "181.fm Kickin Country Todays Best Country",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:8130",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 8755,
+name: "The E Channel Hits Playing All The Hits",
+website: "http://www.echannelhits.com",
+streamurl: "http://50.7.96.138:8046",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8754,
+name: "Organic Rock",
+website: "",
+streamurl: "http://organicrock.wohooo.net:8000/airtime_128",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 8733,
+name: "Big B Radio Asian Pop The Only Hot Asian For Asian Music",
+website: "http://www.bigbradio.com",
+streamurl: "http://50.7.173.162:8118",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8730,
+name: "Big B Radio Asian Pop The Hot Station For Asian Music",
+website: "http://www.bigbradio.com",
+streamurl: "http://184.95.62.170:8002",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8668,
+name: "Kegr Radio 48kbs Concord Ca Aaa Rock And Blues",
+website: "",
+streamurl: "http://108.166.161.206:8779",
+country: "US",
+bitrate: "32",
+status: 1
+},
+{
+id: 8653,
+name: "Arise1radio",
+website: "",
+streamurl: "http://arise1radio.redirectme.net:8000",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 8605,
+name: "Zrock",
+website: "http://www.zrock.us",
+streamurl: "http://184.95.52.178:9440",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 8604,
+name: "1fm Slow Jamz",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.22:10044",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8600,
+name: "The Beat Dance Hits 128kmp3",
+website: "http://www.thebeat.us",
+streamurl: "http://50.7.77.179:8100",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8592,
+name: "Thexstreamfm Top 40 Hits",
+website: "http://www.thexstream.fm",
+streamurl: "http://108.163.215.90:9060",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8591,
+name: "Boystown Live Dance Radio Chicago",
+website: "http://boystownlive.com",
+streamurl: "http://50.7.70.130:8349",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 8589,
+name: "Old School 247 Oldschoolradionet",
+website: "http://oldschoolradio.net",
+streamurl: "http://198.27.80.37:5206",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 8588,
+name: "1fm Magic 80s",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.15:10084",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8581,
+name: "Alex Jones Infowarscom",
+website: "http://www.infowars.com",
+streamurl: "http://50.7.79.22:80",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 8577,
+name: "1fm Rock Classics",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.15:10060",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8571,
+name: "Cbe4 Cbeamericana",
+website: "http://cbeamericana.com",
+streamurl: "http://72.55.137.182:8800",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 8566,
+name: "Radiofreechicagonet And Straightfromdetroitcom",
+website: "",
+streamurl: "http://199.38.83.135:8004",
+country: "US",
+bitrate: "56",
+status: 1
+},
+{
+id: 8555,
+name: "Metal World Radio",
+website: "http://www.metalworldradio.com",
+streamurl: "http://91.121.137.142:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8436,
+name: "Alex Jones Infowarscom",
+website: "http://www.infowars.com",
+streamurl: "http://50.7.130.102:80",
+country: "US",
+bitrate: "32",
+status: 1
+},
+{
+id: 8382,
+name: "Slick Iradiophilly",
+website: "",
+streamurl: "http://peace.str3am.com:6320/slick",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 8229,
+name: "Circuit Pride Radio 1fm Tm",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.21:5090",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8156,
+name: "Gotradio Rockin 80s",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.163:8420",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8137,
+name: "Radio Fusion Enjoy Dancing",
+website: "http://fusionmixradio.com",
+streamurl: "http://199.195.194.92:8031",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8104,
+name: "Thelex",
+website: "http://thelex.us",
+streamurl: "http://199.180.72.2:8611",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 8100,
+name: "Psychedelic Jukebox The Best Psychedelic 60s Rock Garage And Surf Music On The Net",
+website: "http://www.psychedelicjukebox.com",
+streamurl: "http://174.122.26.34:8140",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 8092,
+name: "Kona Stream Mono",
+website: "http://www.konastream.com",
+streamurl: "http://gold.slserver.com:8030",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 8064,
+name: "Vvcradio Hip Hop Rb",
+website: "http://www.vvcradio.com",
+streamurl: "http://198.154.106.104:8451",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 8055,
+name: "Detour Talk Bringing The Best In Indie And Progressive Talk",
+website: "http://talk.thedetour.us",
+streamurl: "http://46.21.151.98:8080",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 7962,
+name: "Afbradio",
+website: "http://www.afbradio.us",
+streamurl: "http://205.164.41.34:1670",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7909,
+name: "Gotradio Reggae",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.163:8470",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7882,
+name: "Kjazz 881",
+website: "http://www.jazzandblues.org/",
+streamurl: "http://1.ice1.firststreaming.com/kkjz_fm.aac",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 7844,
+name: "Gotradio Classic Country",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.162:8090",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7797,
+name: "Gotradio Americana",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.162:8080",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7766,
+name: "The Surge Of Socal",
+website: "http://www.surgeradio.org",
+streamurl: "http://s4.viastreaming.net:8760",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7739,
+name: "Iloveradio",
+website: "http://cool-radio.us",
+streamurl: "http://86.84.13.103:9920",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7728,
+name: "Ziggy Iradiophilly",
+website: "",
+streamurl: "http://peace.str3am.com:6320/ziggy",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 7686,
+name: "Qz Radio Hd",
+website: "",
+streamurl: "http://dqwayzay.dyndns-server.com:8010/qzradio",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7680,
+name: "181.fm Smooth Ac",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.115:14094",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7675,
+name: "181.fm Studio 181 First Generation Of Dance",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.120:8072",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7640,
+name: "The Great American Songbook",
+website: "http://www.greatamericansongbook.info",
+streamurl: "http://217.120.162.142:8001",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7566,
+name: "Gotradio Texas Best",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.163:8600",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7552,
+name: "Gotradio Forever Fifties",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.163:8440",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7521,
+name: "1fm Ottos Opera House Radio",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.10:9020",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 7489,
+name: "Bellbottoms",
+website: "",
+streamurl: "http://peace.str3am.com:6320/bellbottoms",
+country: "US",
+bitrate: "60",
+status: 1
+},
+{
+id: 7463,
+name: "Simply Electro Radio",
+website: "http://www.simplyradio.com",
+streamurl: "http://67.215.229.101:8070",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 7454,
+name: "181.fm Energy 93 European Edm",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.118:8044",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7376,
+name: "Themorningcoffeemix Kfeedb Digital Radio",
+website: "http://www.themorningcoffeemix.com",
+streamurl: "http://65.49.77.146:9520",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7315,
+name: "Seattles Hot Jamz",
+website: "",
+streamurl: "http://stream-high.kmih.org:8000",
+country: "US",
+bitrate: "256",
+status: 1
+},
+{
+id: 7206,
+name: "Wild West Radio High Cholesterol Low Protein Radio 945 Saturated Fat",
+website: "http://wildwestradio.com",
+streamurl: "http://67.228.150.175:7430",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7148,
+name: "Americas Best Ballads Radio 1fm Tm",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.22:8680",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7106,
+name: "181.fm Christmas Rock",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.118:8090",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7080,
+name: "Ocean Beach Radio",
+website: "http://www.oceanbeachradio.com",
+streamurl: "http://173.192.70.138:7130",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 7074,
+name: "Xtremerockusa Go Loud Or Go Home",
+website: "http://www.xtremerockusa.com",
+streamurl: "http://67.212.189.122:8145",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7071,
+name: "181.fm Classical Guitar",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.118:8020",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7062,
+name: "What Radio",
+website: "http://www.itswhatradio.com",
+streamurl: "http://whatradio.neostreams.org:9119",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 7020,
+name: "181.fm The Frontporch Bluegrass From The Frontporch",
+website: "http://www.181.fm",
+streamurl: "http://108.61.35.91:8016",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7019,
+name: "Roots Of Rock Dot U S Rootsofrockus",
+website: "http://rootsofrock.us",
+streamurl: "http://208.53.158.48:8364",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 7015,
+name: "Pirate Radio Wqqn Ltpirateradioritedugt",
+website: "",
+streamurl: "http://smc.rit.edu:8000/pirate-192",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 7009,
+name: "Gulchradio Kcrj Am 1670 Jerome Az",
+website: "http://www.gulchradio.com",
+streamurl: "http://66.225.205.72:8000",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 6998,
+name: "Gotradio Bluegrass",
+website: "http://www.gotradio.com",
+streamurl: "http://173.244.215.163:8490",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6984,
+name: "Gulchradio Kcrj Am1670 Jerome Az",
+website: "http://www.gulchradio.com",
+streamurl: "http://66.225.205.72:80",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 6845,
+name: "181.fm Lite 90s",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:8048",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 6827,
+name: "181.fm The Mix Channel 70s 80s 90s And Todays Best Music",
+website: "http://www.181.fm",
+streamurl: "http://67.213.214.248:9870",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 6767,
+name: "181.fm Christmas Smooth Jazz",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:8092",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 6751,
+name: "181.fm Christmas Rb",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8088",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6744,
+name: "181.fm Star 90s",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8012",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6741,
+name: "181.fm Kristmas Kountry Hot Country Christmas",
+website: "http://www.181.fm",
+streamurl: "http://108.61.35.91:8084",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6739,
+name: "181.fm Old School Hip Hop Rnb",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8068",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6718,
+name: "181.fm The Breeze",
+website: "http://www.181.fm",
+streamurl: "http://184.154.222.210:12106",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6708,
+name: "181.fm Jammin 181",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.119:8042",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6702,
+name: "181.fm 90s Country",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.115:8050",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6701,
+name: "Boot Liquor Americana Roots Music For Cowhands Cowpokes And Cowtippers Somafm",
+website: "http://www.somafm.com",
+streamurl: "http://173.239.76.147:9004",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6692,
+name: "181.fm The Box 1 For Hiphop",
+website: "http://www.181.fm",
+streamurl: "http://108.61.35.91:8024",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6680,
+name: "West Coast Golden Radio",
+website: "http://westcoast.vestaradio.com",
+streamurl: "http://sv3.vestaradio.com:4370",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 6666,
+name: "181.fm 80s Hairband Channel",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.120:8014",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6664,
+name: "181.fm Good Time Oldies",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:8046",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 6663,
+name: "New Dance Radio",
+website: "http://newdanceradio.co.uk",
+streamurl: "http://jbstream.net:8074",
+country: "US",
+bitrate: "320",
+status: 1
+},
+{
+id: 6647,
+name: "Rippedradio Smooth Jazz",
+website: "http://www.rippedradio.com",
+streamurl: "http://s20.myradiostream.com:14764",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6627,
+name: "Rainbow Radio International",
+website: "http://www.rainbowradio.us",
+streamurl: "http://198.27.80.37:5088/stream",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 6598,
+name: "Heavy Handed Radio",
+website: "http://www.heavyhandedradio.com/#!links/c26i",
+streamurl: "http://fire.wavestreamer.com:3280/Live",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6589,
+name: "Boss Radio",
+website: "http://backwhenradiowasboss.com",
+streamurl: "http://50.7.70.66:8881",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6577,
+name: "Siys Radio",
+website: "http://siysradio.rocks.it",
+streamurl: "http://50.22.212.203:8047",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6568,
+name: "Back When Radio Was Boss",
+website: "http://backwhenradiowasboss.com",
+streamurl: "http://50.7.98.106:8617",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6528,
+name: "Gtriddimcom Guyana Radio",
+website: "http://www.gtriddim.com",
+streamurl: "http://173.236.59.84:8080",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6522,
+name: "Dance One Radio 1fm Tm",
+website: "http://www.1.fm",
+streamurl: "http://205.164.62.13:3695",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6515,
+name: "Radio Free Americana",
+website: "http://www.radiofreeamericana.com",
+streamurl: "http://sc9.shoutcaststreaming.us:9526",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6512,
+name: "181.fm The Beat 1 For Hiphop And Rb",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.115:8054",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6511,
+name: "Rhythmradious",
+website: "http://www.rhythmradio.us",
+streamurl: "http://199.180.72.2:8107",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6510,
+name: "181.fm The Point Your Hit Music Alternative",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.120:8010",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6504,
+name: "181.fm Awesome 80s",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.120:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6502,
+name: "181.fm 90s Alternative",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.115:8052",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6497,
+name: "181.fm Classic Hits Home Of The 60s And 70s",
+website: "http://www.181.fm",
+streamurl: "http://69.4.232.112:8900",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 6496,
+name: "181.fm Highway 181 Classic Country",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.117:8018",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 6490,
+name: "Netrock101",
+website: "http://www.netrock101.com",
+streamurl: "http://netrock101.servebeer.com:8418",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6488,
+name: "Nashville Rock",
+website: "http://countrymuziek.eu",
+streamurl: "http://ice.stream101.com:6025",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 6474,
+name: "181.fm The Eagle Your Home For Real Classic Rock",
+website: "http://www.181.fm",
+streamurl: "http://108.61.35.91:10000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6468,
+name: "181.fm The Office Your Office Friendly Station",
+website: "http://www.181.fm",
+streamurl: "http://108.61.73.115:8002",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6291,
+name: "Electricfm Americas Real Dance",
+website: "http://www.electricfm.com",
+streamurl: "http://stream.electricfm.com:80",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6290,
+name: "Carolina Classic Hits",
+website: "http://www.CarolinaClassicHits.com",
+streamurl: "http://198.24.181.250:80/carolinaclassichigh",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6289,
+name: "Billman Shoutcast Radio",
+website: "http://www.billmanradio.com",
+streamurl: "http://173.236.41.22:80/",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6286,
+name: "Country Crossroads",
+website: "http://www.countrycrossroadsradio.com",
+streamurl: "http://192.81.248.192:8106",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6285,
+name: "Fprn Radio Tunein To Liberty",
+website: "http://www.fprnradio.com",
+streamurl: "http://192.99.4.23:42000/fprn",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6280,
+name: "North Pole Radio",
+website: "http://www.northpoleradio.com/index.html",
+streamurl: "http://ophanim.net:9790/",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6279,
+name: "Classic Holiday Radio",
+website: "http://www.classicholidayradio.com",
+streamurl: "http://216.38.1.184:80",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6278,
+name: "Holiday Favorites 101",
+website: "http://www.classicvinyl101.com/holiday/",
+streamurl: "http://208.53.158.48:9562/",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6275,
+name: "Kerrfm",
+website: "http://kerrfm.com",
+streamurl: "http://50.7.70.58:8322",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6273,
+name: "Crossline Radio",
+website: "http://www.crosslineradio.com",
+streamurl: "http://198.105.220.12:9840/Live",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 6263,
+name: "Party Time Radio",
+website: "http://www.partytimeradio.com/",
+streamurl: "http://67.214.181.18:8014/",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 6257,
+name: "Volon Radio",
+website: "http://volonradio.webs.com",
+streamurl: "http://87.117.197.33:29220",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 5578,
+name: "Power 181 Top 40",
+website: "http://www.181.fm",
+streamurl: "http://relay5.181.fm:8128",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5577,
+name: "Lite 80s",
+website: "http://www.181.fm",
+streamurl: "http://relay1.181.fm:8040",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 5576,
+name: "Lite 90s",
+website: "http://www.181.fm",
+streamurl: "http://relay5.181.fm:8048",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5575,
+name: "The Heart Love Songs",
+website: "http://www.181.fm",
+streamurl: "http://relay1.181.fm:8006",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 5574,
+name: "The Judge Neil Show",
+website: "http://www.judgeneil.com",
+streamurl: "http://radio.judgeneil.com/live",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 5573,
+name: "181.fm Beatles",
+website: "http://www.181.fm",
+streamurl: "http://relay1.181.fm:8062",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 5572,
+name: "Christmas Swing",
+website: "http://www.181.fm",
+streamurl: "http://relay5.181.fm:8120",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5571,
+name: "Christmas Gospel",
+website: "http://www.181.fm",
+streamurl: "http://relay2.181.fm:8104",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5570,
+name: "Christmas Rock",
+website: "http://www.181.fm",
+streamurl: "http://relay3.181.fm:8090",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5569,
+name: "Christmas Soundtracks",
+website: "http://www.181.fm",
+streamurl: "http://relay5.181.fm:8114",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5568,
+name: "Christmas Country",
+website: "http://www.181.fm",
+streamurl: "http://relay3.181.fm:8110",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5567,
+name: "Christmas Oldies",
+website: "http://www.181.fm",
+streamurl: "http://relay2.181.fm:8108",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5566,
+name: "Christmas Classics",
+website: "http://www.181.fm",
+streamurl: "http://relay5.181.fm:8124",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 5565,
+name: "Jazz Vocal Legends",
+website: "http://www.jazzradio.com",
+streamurl: "http://pub8.jazzradio.com:80/jr_vocallegends_aacplus?f3508fc46ca3c70a4d",
+country: "US",
+bitrate: "40",
+status: 1
+},
+{
+id: 5564,
+name: "Skyfm Oldies",
+website: "http://www.sky.fm/oldies",
+streamurl: "http://pub2.sky.fm:80/sky_oldies_aacplus",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 5563,
+name: "Skyfm Classic Jazz",
+website: "http://www.sky.fm/jazzclassics",
+streamurl: "http://pub5.sky.fm:80/sky_jazzclassics_aacplus?f3508fc46ca3c70a4d",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 5562,
+name: "Jazz Sinatra Style",
+website: "http://www.jazzradio.com",
+streamurl: "http://pub8.jazzradio.com:80/jr_sinatrastyle_aacplus",
+country: "US",
+bitrate: "40",
+status: 1
+},
+{
+id: 5561,
+name: "Happy Christmas Radio",
+website: "http://www.happychristmasradio.net",
+streamurl: "http://listen.radionomy.com/happychristmasradio",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 760,
+name: "Fusion Fm Kkop",
+website: "http://www.fusionfmkkop.com",
+streamurl: "http://209.105.250.69:8294/stream",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 758,
+name: "Pirate Radio 1",
+website: "http://pirateradio1.com",
+streamurl: "http://usa2.fastcast4u.com:3806/",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 757,
+name: "All Time Gospel Radio",
+website: "http://www.alltimegospelradio.com",
+streamurl: "http://174.36.232.226:8183/stream",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 736,
+name: "Pentecostal Tunes",
+website: "http://fpcnlr.com",
+streamurl: "http://amber.streamguys.com:4170/live",
+country: "US",
+bitrate: "56",
+status: 1
+},
+{
+id: 732,
+name: "Gospel Music Explosion",
+website: "http://gospel-music-explosion.com",
+streamurl: "http://198.24.160.28:80/gospelexplosionhigh",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 730,
+name: "Wicca Radio International",
+website: "http://www.wicca-radio.com",
+streamurl: "http://eu1.fastcast4u.com:3358/stream",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 729,
+name: "Chronix Aggression",
+website: "http://www.chronixradio.com/aggression",
+streamurl: "http://173.192.45.18:10200",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 728,
+name: "Chronix Metal Radio",
+website: "http://www.chronixradio.com/metal",
+streamurl: "http://173.192.45.18:10100",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 716,
+name: "Florida Jamz",
+website: "http://www.floridajamz.com",
+streamurl: "http://www.live365.com/play/floridajamz",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 715,
+name: "Americana Nirvana Internet Radio",
+website: "http://www.americana-nirvana.net",
+streamurl: "http://23.29.114.18:8020",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 709,
+name: "Frisky Radio Chill",
+website: "http://friskyradio.com/",
+streamurl: "http://stream-01.shoutcast.com:8002/frisky_chill_mp3_128kbps",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 708,
+name: "Frisky Radio",
+website: "http://friskyradio.com/",
+streamurl: "http://stream-176.shoutcast.com:80/frisky_radio_mp3_128kbps",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 707,
+name: "Proton Radio",
+website: "http://www.protonradio.com/",
+streamurl: "http://protonradio.com:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 706,
+name: "Fox News Radio",
+website: "http://radio.foxnews.com/player/",
+streamurl: "http://fnradio-shoutcast-32.ng.akacast.akamaistream.net/7/115/13873/v1/auth.akacast.akamaistream.net/fnradio-shoutcast-32",
+country: "US",
+bitrate: "32",
+status: 1
+},
+{
+id: 673,
+name: "Iac Fm",
+website: "http://www.iamcaribbean.com",
+streamurl: "http://iacfm.com:8000/stream",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 660,
+name: "Mpir Comedy Otr",
+website: "http://www.mpir-otr.com",
+streamurl: "http://s3.voscast.com:8454",
+country: "US",
+bitrate: "24",
+status: 1
+},
+{
+id: 658,
+name: "Truth For The World Radio",
+website: "http://truthfortheworld.org",
+streamurl: "http://24.159.164.34:8000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 655,
+name: "Salsabeat",
+website: "http://server8.reliastream.com/start/mmarre00",
+streamurl: "http://206.217.201.137:8025",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 622,
+name: "Billman Radio Network",
+website: "http://radio.djbillman.com",
+streamurl: "http://streams.streemi.com:8008/stream",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 621,
+name: "Pierrot Fm",
+website: "http://www.pierrotfm.com",
+streamurl: "http://68.168.103.13:8321",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 620,
+name: "Gotta Luv It Radio",
+website: "http://www.gotta-luv-it.com",
+streamurl: "http://usa2.fastcast4u.com:3086/stream",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 612,
+name: "Radio Station Net",
+website: "http://radiostationnet.com",
+streamurl: "http://s3.voscast.com:8170",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 604,
+name: "Crescent Hill Radio",
+website: "http://www.CrescentHillRadio.com",
+streamurl: "http://ice.stream101.com:6035/stream",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 597,
+name: "Good Vibrations",
+website: "http://www.wwzapper.com",
+streamurl: "http://listen.radionomy.com/good-vibrations",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 596,
+name: "Super Throwback Party",
+website: "http://www.superthrowbackparty.net",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 593,
+name: "Streamingsoundtracks",
+website: "http://www.streamingsoundtracks.com/",
+streamurl: "http://91.121.140.11:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 582,
+name: "Radyo Sensation",
+website: "http://www.radyosensation.com",
+streamurl: "http://68.168.103.13:8321",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 579,
+name: "100hitz New Country",
+website: "http://www.100hitz.com/",
+streamurl: "http://206.217.213.235:8120",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 569,
+name: "Gentlemenradio",
+website: "http://www.gentlemenradio.com",
+streamurl: "http://s4.myradiostream.com:15848/listen.pls ",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 567,
+name: "100xr",
+website: "http://www.100xr.com/",
+streamurl: "http://198.100.110.242:8010",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 566,
+name: "Oldies104net",
+website: "http://www.star104.net/userpage.php?page_id=10",
+streamurl: "http://ando1.cdn.radiostorm.com/oldies-mp3",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 565,
+name: "181.fm The Frontporch Bluegrass",
+website: "http://www.181.fm",
+streamurl: "http://relay.181.fm:8016/",
+country: "US",
+bitrate: "64",
+status: 1
+},
+{
+id: 564,
+name: "181.fm Real Country",
+website: "http://www.181.fm/",
+streamurl: "http://relay.181.fm:8034/",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 563,
+name: "181.fm Kickin Country",
+website: "http://181.fm",
+streamurl: "http://relay.181.fm:8130/",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 537,
+name: "Ztn Radio",
+website: "http://www.ztnradio.com/",
+streamurl: "http://listen.ztnradio.com:8000/",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 536,
+name: "Wamu 885 American University Radio",
+website: "http://wamu.org/",
+streamurl: "http://wamu-1.streamguys.com",
+country: "US",
+bitrate: "48",
+status: 1
+},
+{
+id: 532,
+name: "Solidgold14k",
+website: "http://www.solidgold14k.com",
+streamurl: "http://108.161.131.54:9992",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 529,
+name: "Big Mix Radio",
+website: "http//bigmixradio.com",
+streamurl: "http://198.24.160.26:80/bmrhigh",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 522,
+name: "Progrockcom",
+website: "http://www.progrock.com",
+streamurl: "http://fire.wavestreamer.com:1320/listen.pls?sid=1",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 508,
+name: "Runthatbeatradio",
+website: "http://runthatbeatradio.com/",
+streamurl: "http://198.154.106.104:8528",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 489,
+name: "Classic Soul Network",
+website: "http://www.theclassicsoulnetwork.com/main.php",
+streamurl: "http://50.7.96.210:8535",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 488,
+name: "Killing Angels Radio",
+website: "http://k-a-radio.playtheradio.com/index.cfm",
+streamurl: "http://listen.radionomy.com/k-a-radio",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 479,
+name: "Dps Soul",
+website: "http://dpssoul.com",
+streamurl: "http://streams4.museter.com:8432",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 478,
+name: "Da Needle",
+website: "http://www.daneedle.com",
+streamurl: "http://streams4.museter.com:8048",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 400,
+name: "Rhythm 86",
+website: "http://rhythm86.com",
+streamurl: "http://rhythm86.linkpc.net:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 392,
+name: "Progfm",
+website: "http://www.prog.fm/",
+streamurl: "http://128k.prog.fm:80",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 391,
+name: "Kcrw Eclectic 24",
+website: "http://www.kcrw.com/music/eclectic24",
+streamurl: "http://sc7.iad.llnw.net:80/stream/kcrw_music",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 383,
+name: "Tvo1cbn Iradio",
+website: "http://www.tvo1cbn.tk",
+streamurl: "http://streams4.museter.com:8050",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 382,
+name: "Planet Lounge Radio",
+website: "http://www.planetloungeradio.com",
+streamurl: "http://91.121.55.231:8042",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 380,
+name: "Skyfm Best Of The 80s",
+website: "http://www.sky.fm/",
+streamurl: "http://pub7.sky.fm:80/sky_the80s",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 374,
+name: "Force One Network Radio",
+website: "http://www.myspace.com/f1networkradio",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 371,
+name: "Krazzy Vybz Radio",
+website: "krazzyvybz.com",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 346,
+name: "Radio Vinilo Clasicos Desde Vinilo",
+website: "http://www.radiovinilo.com/",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 325,
+name: "Cleveland Hip Hop And Rb",
+website: "http://guaradio.com/home/",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 309,
+name: "Nueva Uncion Radio",
+website: "http://www.nuevauncionradio.com",
+streamurl: "http://174.37.159.206:8147",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 300,
+name: "Folk Alley All Folk All The Time",
+website: "http://www.folkalley.com/",
+streamurl: "http://66.225.205.8:8000",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 299,
+name: "Radio Free Vermont",
+website: "http://www.freevermontradio.org",
+streamurl: "http://streams.museter.com:8004",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 291,
+name: "Xmr Easy Street",
+website: "http://www.xmusicradio.com",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 287,
+name: "Xmr 90s Escape",
+website: "http://www.xmusicradio.com",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 286,
+name: "Global Urban Assult Radio",
+website: "http://www.guaradio.com",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 285,
+name: "Wcjs",
+website: "http://cresonealmusic.com/wcjsradio.cfm",
+streamurl: "http://67.159.45.166:8221",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 273,
+name: "Xmr Soul",
+website: "http://www.xmusicradio.com",
+streamurl: "http://xmusicradio.com:8030",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 272,
+name: "Xmr Music Mix",
+website: "http://www.xmusicradio.com",
+streamurl: "http://xmusicradio.com:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 271,
+name: "Xmr Classic Rock",
+website: "www.xmusicradio.com",
+streamurl: "http://xmusicradio.com:8040",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 270,
+name: "Xmr Hard Rock",
+website: "www.xmusicradio.com",
+streamurl: "http://www.xmusicradio.com:8010",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 248,
+name: "Oem Radio",
+website: "http://oem-radio.org",
+streamurl: "",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 223,
+name: "Jammin 105",
+website: "",
+streamurl: "http://67.213.221.48:9080/",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 206,
+name: "Digitally Imported Techno House",
+website: "http://www.di.fm",
+streamurl: "http://u16b.di.fm:80/di_techhouse",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 172,
+name: "Vgm Radio",
+website: "",
+streamurl: "http://radio.vgmradio.com:8040/autodj",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 163,
+name: "Select Hits",
+website: "",
+streamurl: "http://121.cloudrad.io:8162/live",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 156,
+name: "Real Industrial Radio",
+website: "",
+streamurl: "http://radio.realindustrialradio.com:8000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 153,
+name: "Paradiseradioorg",
+website: "",
+streamurl: "http://66.90.103.76:8620",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 152,
+name: "The Rock Bat",
+website: "",
+streamurl: "http://s6.voscast.com:7816/;stream.mp3",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 147,
+name: "893 Kpcc Southern California Public Radio",
+website: "http://www.scpr.org/",
+streamurl: "http://live.scpr.org/kpcclive",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 141,
+name: "Brandon Radio",
+website: "",
+streamurl: "http://67.159.45.87:8291",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 140,
+name: "All Hit 70s Skyfm",
+website: "",
+streamurl: "http://scfire-mtc-aa06.stream.aol.com:80/stream/1076",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 128,
+name: "Pedroleouf Bob Marley Forever",
+website: "",
+streamurl: "http://www.bobmarleyforever.com:8000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 123,
+name: "1980sfm",
+website: "",
+streamurl: "http://173.192.32.194:80",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 122,
+name: "Skyfm Mostly Classical",
+website: "",
+streamurl: "http://scfire-mtc-aa03.stream.aol.com:80/stream/1006",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 121,
+name: "Skyfm Solo Piano",
+website: "",
+streamurl: "http://scfire-ntc-aa01.stream.aol.com:80/stream/1004",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 119,
+name: "4 Ever Floyd",
+website: "",
+streamurl: "http://99.198.112.59:8000",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 118,
+name: "Addicted To Radio Dance Hits Chicago Hq",
+website: "",
+streamurl: "http://208.77.21.21:10025",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 116,
+name: "Digitally Imported Progressive",
+website: "http://www.di.fm",
+streamurl: "http://scfire-dtc-aa04.stream.aol.com:80/stream/1026",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 114,
+name: "Chicago Public Media",
+website: "",
+streamurl: "http://69.28.128.148:80/stream/wbez_91_5_fm",
+country: "US",
+bitrate: "0",
+status: 1
+},
+{
+id: 111,
+name: "Digitally Imported Electro House",
+website: "http://www.di.fm",
+streamurl: "http://scfire-ntc-aa06.stream.aol.com:80/stream/1025",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 105,
+name: "181.fm Awesome 80s",
+website: "",
+streamurl: "http://67.213.214.248:9868",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 103,
+name: "181.fm The Eagle Your Home For Real Classic Rock",
+website: "",
+streamurl: "http://174.36.241.224:10108",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 96,
+name: "Amazing Smooth And Jazz",
+website: "",
+streamurl: "http://stream.jazz.amazingradios.com:8375/live",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 84,
+name: "1fm Reggaetrade",
+website: "",
+streamurl: "http://209.73.150.68:7000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 79,
+name: "Animenfo Radio",
+website: "http://www.animenfo.com/radio/",
+streamurl: "http://itori.animenfo.com:443",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 57,
+name: "Wnycfm",
+website: "",
+streamurl: "http://wnycfm.streamguys.com:80",
+country: "US",
+bitrate: "32",
+status: 1
+},
+{
+id: 56,
+name: "Wnpr New York",
+website: "",
+streamurl: "http://sc7.lga.llnw.net:80/stream/cptv_mp3live?mp3",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 54,
+name: "1power 1 For Hitz Hip Hop In Hd",
+website: "",
+streamurl: "http://scfire-ntc-aa02.stream.aol.com:80/stream/1044",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 53,
+name: "Digitally Imported Chiptunes",
+website: "",
+streamurl: "http://80.94.69.106:6414",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 52,
+name: "Digitally Imported Dubstep",
+website: "http://www.di.fm",
+streamurl: "http://80.94.69.106:6374",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 51,
+name: "Digitally Imported Trance",
+website: "http://www.di.fm",
+streamurl: "http://scfire-ntc-aa04.stream.aol.com:80/stream/1003",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 50,
+name: "Digitally Imported Hard Dance",
+website: "",
+streamurl: "http://80.94.69.106:6014",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 49,
+name: "Digitally Imported House",
+website: "http://www.di.fm",
+streamurl: "http://scfire-ntc-aa04.stream.aol.com:80/stream/1007",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 46,
+name: "Bigupradio Champion Sound Dancehall Reggae",
+website: "",
+streamurl: "http://50.7.245.130:8000",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 42,
+name: "Rockradio1com",
+website: "",
+streamurl: "http://87.98.146.216:8000/",
+country: "US",
+bitrate: "192",
+status: 1
+},
+{
+id: 36,
+name: "Smoothjazz",
+website: "",
+streamurl: "http://scfire-mtc-aa04.stream.aol.com:80/stream/1005",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 33,
+name: "Radio Paradise Modern Classic Rock Electronica World Music More",
+website: "http://www.radioparadise.com/",
+streamurl: "http://stream-dc1.radioparadise.com/mp3-128",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 31,
+name: "977 Hitz Channel",
+website: "",
+streamurl: "http://scfire-ntc-aa01.stream.aol.com:80/stream/1074",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 29,
+name: "Skyfm Dance Hits",
+website: "",
+streamurl: "http://72.26.204.18:6844",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 28,
+name: "Skyfm Roots Reggae",
+website: "",
+streamurl: "http://scfire-mtc-aa04.stream.aol.com:80/stream/1017",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 24,
+name: "Hot 108 Top 40",
+website: "",
+streamurl: "http://scfire-ntc-aa04.stream.aol.com:80/stream/1071",
+country: "US",
+bitrate: "0",
+status: 0
+},
+{
+id: 23,
+name: "181.fm 181 Power",
+website: "http://www.181.fm",
+streamurl: "http://relay4.181.fm:8128",
+country: "US",
+bitrate: "128",
+status: 1
+},
+{
+id: 21,
+name: "Digitally Imported Hardstyle",
+website: "",
+streamurl: "http://pub8.di.fm:80/di_hardstyle",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 12,
+name: "Digitally Imported Eurodance",
+website: "",
+streamurl: "http://pub5.di.fm:80/di_eurodance",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 11,
+name: "Digitally Imported Hardcore",
+website: "",
+streamurl: "http://pub7.di.fm:80/di_hardcore",
+country: "US",
+bitrate: "96",
+status: 1
+},
+{
+id: 8,
+name: "Digitally Imported Vocal Trance",
+website: "",
+streamurl: "http://pub8.di.fm:80/di_vocaltrance",
+country: "US",
+bitrate: "96",
+status: 1
+}
+]
