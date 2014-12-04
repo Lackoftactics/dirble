@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/Lackoftactics/dirble/badges/gpa.svg)](https://codeclimate.com/github/Lackoftactics/dirble)
 [![Build Status](https://travis-ci.org/Lackoftactics/dirble.svg?branch=master)](https://travis-ci.org/Lackoftactics/dirble)
 # Dirble
 
