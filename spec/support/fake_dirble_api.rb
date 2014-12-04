@@ -1,6 +1,9 @@
 require 'sinatra/base'
+require 'sinatra/namespace'
 
 class FakeDirbleApi < Sinatra::Base
+  register Sinatra::Namespace
+
   namespace '/v1' do
     get '/categories/apikey/:apikey' do
       json_response 200, 'categories.json'

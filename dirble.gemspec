@@ -25,5 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry-rescue"
   spec.add_development_dependency "pry"
   spec.add_development_dependency "sinatra"
-
+  spec.add_development_dependency "sinatra-contrib"
+  spec.add_development_dependency "faraday"
+  spec.add_development_dependency "typhoeus"
 end

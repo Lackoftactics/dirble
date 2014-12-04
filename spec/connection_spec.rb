@@ -1,5 +1,5 @@
 require 'spec_helper'
 
-describe Connection do
+#describe Connection do
 
-end
+#end

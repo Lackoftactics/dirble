@@ -1,5 +1,9 @@
-require "dirble/version"
+require 'dirble/configurable'
+require 'dirble/connection'
+require 'dirble/version'
 
 module Dirble
-  # Your code goes here...
+  class << self
+    include Dirble::Configurable
+  end
 end
