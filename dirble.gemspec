@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Dirble::VERSION
   spec.authors       = ["Przemek Mroczek"]
   spec.email         = ["przemyslawmroczek@o2.pl"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Gem for easier interacting with dirble api.}
+  spec.description   = %q{Api wrapper for easier using dirble api.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

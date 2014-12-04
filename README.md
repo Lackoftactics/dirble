@@ -1,6 +1,6 @@
 # Dirble
 
-TODO: Write a gem description
+Gem to make interacting with http://api.dirble.com/ amazingly easy.
 
 ## Installation
 
