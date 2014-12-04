@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Lackoftactics/dirble.svg?branch=master)](https://travis-ci.org/Lackoftactics/dirble)
 # Dirble
 
 Gem to make interacting with http://api.dirble.com/ amazingly easy.
