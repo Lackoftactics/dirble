@@ -1,12 +1,24 @@
+require 'typhoeus'
+require 'typhoeus/adapters/faraday'
+
 module Dirble
   class Connection
+    DIRBLE_API_URL = 'http://api.dirble.com/v1'
 
-    def initialize(options)
-      self.api_key = options[:api_key]
+    def exec_query(query_params)
+      QueryExecuter.new(self, query_params).execute
     end
 
     private
 
-    attr_accessor :api_key
+    def connection
+      @connection ||= begin
+                        Faraday.new(url: DIRBLE_API_URL) do |faraday|
+                          faraday.request :url_encoded
+                          faraday.response :logger
+                          faraday.adapter :typhoeus
+                        end
+                      end
+    end
   end
 end
