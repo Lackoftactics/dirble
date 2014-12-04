@@ -1,0 +1,327 @@
+[
+{
+id: 56,
+name: "40s",
+description: ""
+},
+{
+id: 55,
+name: "50s",
+description: ""
+},
+{
+id: 54,
+name: "60s",
+description: ""
+},
+{
+id: 43,
+name: "70s",
+description: ""
+},
+{
+id: 41,
+name: "80s",
+description: ""
+},
+{
+id: 42,
+name: "90s",
+description: ""
+},
+{
+id: 64,
+name: "African",
+description: ""
+},
+{
+id: 24,
+name: "Baroque",
+description: ""
+},
+{
+id: 50,
+name: "Bluegrass",
+description: ""
+},
+{
+id: 65,
+name: "Bollywood",
+description: ""
+},
+{
+id: 58,
+name: "Bubblegum Pop",
+description: ""
+},
+{
+id: 67,
+name: "Chinese",
+description: ""
+},
+{
+id: 51,
+name: "Classic Country",
+description: ""
+},
+{
+id: 35,
+name: "Classic R&B",
+description: ""
+},
+{
+id: 29,
+name: "Classic reggae",
+description: ""
+},
+{
+id: 18,
+name: "Classic Rock",
+description: ""
+},
+{
+id: 11,
+name: "Classical",
+description: "Classical music such as Mozart and Beethoven but also Greig and others."
+},
+{
+id: 26,
+name: "Classical period music",
+description: ""
+},
+{
+id: 31,
+name: "Conspiracy",
+description: ""
+},
+{
+id: 49,
+name: "Country",
+description: ""
+},
+{
+id: 3,
+name: "Dance",
+description: "dance music, the new from 80's and 90's, like bubblegum and more."
+},
+{
+id: 60,
+name: "Dancehall",
+description: ""
+},
+{
+id: 40,
+name: "Decades",
+description: ""
+},
+{
+id: 14,
+name: "Electronic",
+description: "all computeriz made."
+},
+{
+id: 47,
+name: "Electronic Folk",
+description: ""
+},
+{
+id: 46,
+name: "Folk",
+description: ""
+},
+{
+id: 48,
+name: "Folk Rock",
+description: ""
+},
+{
+id: 37,
+name: "Funk",
+description: ""
+},
+{
+id: 8,
+name: "Hard Rock",
+description: "stations that plays simple and clean hardrock"
+},
+{
+id: 6,
+name: "Harddance",
+description: "harddance as hardstyle, hardcore, gabber, speedcore, terrorcore, happy hardcore etc etc"
+},
+{
+id: 15,
+name: "Hardstyle",
+description: ""
+},
+{
+id: 68,
+name: "Hebrew",
+description: ""
+},
+{
+id: 63,
+name: "Hindi",
+description: ""
+},
+{
+id: 20,
+name: "Hip Hop",
+description: ""
+},
+{
+id: 23,
+name: "House",
+description: ""
+},
+{
+id: 62,
+name: "International",
+description: ""
+},
+{
+id: 66,
+name: "Islamic",
+description: ""
+},
+{
+id: 12,
+name: "Jazz",
+description: "The classical music - Jazz."
+},
+{
+id: 32,
+name: "JPOP",
+description: ""
+},
+{
+id: 57,
+name: "KPop",
+description: ""
+},
+{
+id: 39,
+name: "Light Rock",
+description: ""
+},
+{
+id: 28,
+name: "Lovers rock",
+description: ""
+},
+{
+id: 25,
+name: "Mainstream Jazz",
+description: ""
+},
+{
+id: 44,
+name: "Misc",
+description: "Everything else."
+},
+{
+id: 19,
+name: "Modern Rock",
+description: ""
+},
+{
+id: 36,
+name: "Motown",
+description: ""
+},
+{
+id: 21,
+name: "News",
+description: ""
+},
+{
+id: 16,
+name: "Normal Rock",
+description: ""
+},
+{
+id: 52,
+name: "Oldies",
+description: ""
+},
+{
+id: 30,
+name: "Politic",
+description: ""
+},
+{
+id: 5,
+name: "Pop",
+description: "stations that normally play pop-music"
+},
+{
+id: 59,
+name: "Progressive Rock",
+description: ""
+},
+{
+id: 34,
+name: "R&B/Urban",
+description: ""
+},
+{
+id: 10,
+name: "Rap",
+description: "50 Cent and more."
+},
+{
+id: 9,
+name: "Reggae",
+description: "Who don't know Bob Marley?"
+},
+{
+id: 61,
+name: "Religion",
+description: ""
+},
+{
+id: 2,
+name: "Rock",
+description: "simple rock. from elvis to metallica and like hardrock as iron maiden."
+},
+{
+id: 27,
+name: "Roots Reggae",
+description: ""
+},
+{
+id: 22,
+name: "Schlager",
+description: ""
+},
+{
+id: 33,
+name: "Singer & Songwriter",
+description: ""
+},
+{
+id: 38,
+name: "Soul",
+description: ""
+},
+{
+id: 4,
+name: "Talk & Speech",
+description: "talk & speech stations like normal talkshows and religous discuss."
+},
+{
+id: 17,
+name: "Top 40",
+description: ""
+},
+{
+id: 1,
+name: "Trance",
+description: "stations that plays commercial and other things in trance-music genre."
+},
+{
+id: 45,
+name: "Variety",
+description: "Variety or various, playing more or less everything."
+}
+]
