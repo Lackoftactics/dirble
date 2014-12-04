@@ -1,6 +1,7 @@
 require 'dirble/errors'
 require 'dirble/configurable'
 require 'dirble/connection'
+require 'dirble/category'
 
 require 'dirble/version'
 
