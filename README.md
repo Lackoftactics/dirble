@@ -32,22 +32,27 @@ end
 ```
 Now you are ready to go and able to make amazing things like
 ## Category
-Fetch all categories with `Dirble::Category.all`
+* Fetch all categories with
+  `Dirble::Category.all`
 
-Fetch primary categories with `Dirble::Category.primary` or
-`Dirble::PrimaryCategory.all`
+* Fetch primary categories with
+  `Dirble::Category.primary` or
+  `Dirble::PrimaryCategory.all`
 
-Find category by id `Dirble::Category.find(2)`
+* Find category by id
+  `Dirble::Category.find(2)`
 
-Get first category `Dirble::Category.first`
+* Get first category
+  `Dirble::Category.first`
 
-Find children of primary category
+* Find children of primary category
 ```ruby
   primary_category = Dirble::PrimaryCategory.first
   children = primary_category.children
 ```
 
-Find stations of category `category.stations`
+* Find stations of category
+  `category.stations`
 
 
 ## Contributing
