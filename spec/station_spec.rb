@@ -15,11 +15,22 @@ describe Dirble::Station do
       station = Dirble::Station.by_continent('Asia').first
       expect(station.name).to eq('Lounge Beats')
     end
+
+    it 'returns station filtered by country using iso code' do
+      station = Dirble::Station.by_country('us').first
+      expect(station.country).to eq('US')
+    end
    end
 
   context 'station with details' do
     it 'gets individual station' do
 
+    end
+  end
+
+  context 'amount of station' do
+    it 'gets number of currently registered stations' do
+      expect(Dirble::Station.count).to eq(4502)
     end
   end
 end
