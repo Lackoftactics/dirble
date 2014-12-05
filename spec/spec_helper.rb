@@ -3,7 +3,7 @@ require 'coveralls'
 
 SimpleCov.formatter = Coveralls::SimpleCov::Formatter
 SimpleCov.start do
-  add_filter 'lib'
+  add_filter 'spec'
 end
 
 require 'pry'
