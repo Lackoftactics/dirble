@@ -3,7 +3,13 @@
 # Dirble
 
 Gem to make interacting with http://api.dirble.com/ amazingly easy.
-Using familiar Rails syntax.
+Using familiar Rails syntax. It uses Faraday and Typhoeus as adapter.
+
+## Compatibility
+
+* Ruby 1.9.3 and 2
+* JRuby 1.7
+* Rubinius
 
 ## Installation
 
@@ -53,7 +59,23 @@ Now you are ready to go and able to make amazing things like
 
 * Find stations of category
   `category.stations`
+## Station
 
+* Search stations
+
+  `Dirble::Station.search('pop')`
+
+* Stations by continent
+
+  `Dirble::Station.by_continent('Asia')`
+
+* Stations by country
+
+  `Dirble::Station.by_country('us')`
+
+* Stations amount. Check currently registered stations in Dirble.
+
+  `Dirble::Station.count`
 
 ## Contributing
 
