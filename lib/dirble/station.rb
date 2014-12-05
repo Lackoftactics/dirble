@@ -12,5 +12,19 @@ module Dirble
       self.country = options[:country]
       self.bitrate = options[:bitrate]
     end
+
+    def self.search(keyword)
+      call_api_with_results(
+        request_type: :get,
+        query: "search/apikey/{{api_key}}/search/#{keyword.parameterize}"
+      )
+    end
+
+    def self.by_continent(name)
+      call_api_with_results(
+        request_type: :get,
+        query: "continent/apikey/{{api_key}}/continent/#{name.parameterize}"
+      )
+    end
   end
 end
