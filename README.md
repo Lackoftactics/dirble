@@ -32,17 +32,18 @@ end
 ```
 Now you are ready to go and able to make amazing things like
 ## Category
-Fetch all categories with `Dirble::Category.all`
+Fetch all categories with `Dirble::Category.all`\n
 Fetch primary categories with `Dirble::Category.primary` or
-`Dirble::PrimaryCategory.all`
-Find category by id `Dirble::Category.find(2)`
-Get first category `Dirble::Category.first`
+`Dirble::PrimaryCategory.all`\n
+Find category by id `Dirble::Category.find(2)`\n
+Get first category `Dirble::Category.first`\n
 
 Find children of primary category
 ```ruby
   primary_category = Dirble::PrimaryCategory.first
   children = primary_category.children
 ```
+
 Find stations of category `category.stations`
 
 
