@@ -40,5 +40,9 @@ module Dirble
         factory_klass: Dirble::Station
       )
     end
+
+    def primary
+      false
+    end
   end
 end

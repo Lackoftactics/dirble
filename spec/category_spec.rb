@@ -5,6 +5,8 @@ describe Dirble::Category do
     configure_dirble
   end
 
+  let!(:category) { Dirble::Category.first }
+
   it 'returns all categories' do
     expect(Dirble::Category.all.count).to eq(65)
   end
@@ -25,9 +27,11 @@ describe Dirble::Category do
     expect(category.name).to eq('40s')
   end
 
-  context 'stations' do
-    let(:category) { Dirble::Category.first }
+  it 'has primary flag set to false' do
+    expect(category.primary).to eq(false)
+  end
 
+  context 'stations' do
     it 'gets stations in category' do
       expect(category.stations).to_not be_empty
     end

@@ -1,5 +1,6 @@
 [![Code Climate](https://codeclimate.com/github/Lackoftactics/dirble/badges/gpa.svg)](https://codeclimate.com/github/Lackoftactics/dirble)
 [![Build Status](https://travis-ci.org/Lackoftactics/dirble.svg?branch=master)](https://travis-ci.org/Lackoftactics/dirble)
+[![Coverage Status](https://coveralls.io/repos/Lackoftactics/dirble/badge.png?branch=master)](https://coveralls.io/r/Lackoftactics/dirble?branch=master)
 # Dirble
 
 Gem to make interacting with http://api.dirble.com/ amazingly easy.
@@ -36,29 +37,36 @@ Dirble.configure do |config|
   config.api_key = "valid_api_key_from_dirble"
 end
 ```
-Now you are ready to go and able to make amazing things like
+Now you are ready to go.
 ## Category
 * Fetch all categories with
+
   `Dirble::Category.all`
 
 * Fetch primary categories with
+
   `Dirble::Category.primary` or
   `Dirble::PrimaryCategory.all`
 
 * Find category by id
+
   `Dirble::Category.find(2)`
 
 * Get first category
+
   `Dirble::Category.first`
 
 * Find children of primary category
+
 ```ruby
   primary_category = Dirble::PrimaryCategory.first
   children = primary_category.children
 ```
 
 * Find stations of category
+
   `category.stations`
+
 ## Station
 
 * Search stations
