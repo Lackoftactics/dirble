@@ -3,6 +3,7 @@
 # Dirble
 
 Gem to make interacting with http://api.dirble.com/ amazingly easy.
+Using familiar Rails syntax.
 
 ## Installation
 
@@ -22,7 +23,28 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In Rails: Put this quick configuration block in environment file.
+Beyond Rails: Put this in initialization or config file.
+```ruby
+Dirble.configure do |config|
+  config.api_key = "valid_api_key_from_dirble"
+end
+```
+Now you are ready to go and able to make amazing things like
+## Category
+Fetch all categories with `Dirble::Category.all`
+Fetch primary categories with `Dirble::Category.primary` or
+`Dirble::PrimaryCategory.all`
+Find category by id `Dirble::Category.find(2)`
+Get first category `Dirble::Category.first`
+
+Find children of primary category
+```ruby
+  primary_category = Dirble::PrimaryCategory.first
+  children = primary_category.children
+```
+Find stations of category `category.stations`
+
 
 ## Contributing
 
