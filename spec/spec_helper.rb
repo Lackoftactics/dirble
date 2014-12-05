@@ -10,3 +10,9 @@ RSpec.configure do |config|
     stub_request(:any, /api.dirble.com/).to_rack(FakeDirbleApi)
   end
 end
+
+def configure_dirble
+  Dirble.configure do |config|
+    config.api_key = "valid_api_key"
+  end
+end

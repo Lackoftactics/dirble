@@ -1,12 +1,16 @@
 module Dirble
   class PrimaryCategory < Category
 
+    def self.all
+      Dirble::Category.primary
+    end
+
     def children
-      response = Dirble.connection.exec_query(
+      self.class.call_api_with_results(
         request_type: :get,
-        query: "childCategories/apikey/{{api_key}}/primaryid/#{id}"
-      ).body
-      build_from_api_response(response)
+        query: "childCategories/apikey/{{api_key}}/primaryid/#{id}",
+        factory_klass: Dirble::Category
+      )
     end
 
     def primary

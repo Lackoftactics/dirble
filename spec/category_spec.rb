@@ -2,9 +2,7 @@ require 'spec_helper'
 
 describe Dirble::Category do
   before do
-    Dirble.configure do |config|
-      config.api_key = "valid_api_key"
-    end
+    configure_dirble
   end
 
   it 'returns all categories' do
@@ -12,7 +10,9 @@ describe Dirble::Category do
   end
 
   it 'returns primary categories' do
-    expect(Dirble::Category.primary.count).to eq(14)
+    primary_categories = Dirble::Category.primary
+    expect(primary_categories.count).to eq(14)
+    expect(primary_categories.first.class).to eq(Dirble::PrimaryCategory)
   end
 
   it 'finds category by id' do

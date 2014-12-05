@@ -1,5 +1,7 @@
 module Dirble
   class Category
+    extend Dirble::SimpleApiModel
+
     attr_accessor :id, :name, :description
 
     def initialize(options)
@@ -26,7 +28,8 @@ module Dirble
     def self.primary
       call_api_with_results(
         request_type: :get,
-        query: 'primaryCategories/apikey/{{api_key}}'
+        query: 'primaryCategories/apikey/{{api_key}}',
+        factory_klass: Dirble::PrimaryCategory
       )
     end
   end
