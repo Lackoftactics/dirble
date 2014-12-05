@@ -32,11 +32,14 @@ end
 ```
 Now you are ready to go and able to make amazing things like
 ## Category
-Fetch all categories with `Dirble::Category.all`\n
+Fetch all categories with `Dirble::Category.all`
+
 Fetch primary categories with `Dirble::Category.primary` or
-`Dirble::PrimaryCategory.all`\n
-Find category by id `Dirble::Category.find(2)`\n
-Get first category `Dirble::Category.first`\n
+`Dirble::PrimaryCategory.all`
+
+Find category by id `Dirble::Category.find(2)`
+
+Get first category `Dirble::Category.first`
 
 Find children of primary category
 ```ruby
