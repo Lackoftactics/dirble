@@ -24,4 +24,17 @@ describe Dirble::Category do
     category = Dirble::Category.first
     expect(category.name).to eq('40s')
   end
+
+  context 'stations' do
+    let(:category) { Dirble::Category.first }
+
+    it 'gets stations in category' do
+      expect(category.stations).to_not be_empty
+    end
+
+    it 'gets station with data' do
+      station = category.stations.first
+      expect(station.name).to eq('Radio Forever')
+    end
+  end
 end

@@ -32,5 +32,13 @@ module Dirble
         factory_klass: Dirble::PrimaryCategory
       )
     end
+
+    def stations
+      self.class.call_api_with_results(
+        request_type: :get,
+        query: "stations/apikey/{{api_key}}/id/#{id}",
+        factory_klass: Dirble::Station
+      )
+    end
   end
 end
