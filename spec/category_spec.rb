@@ -14,4 +14,14 @@ describe Dirble::Category do
   it 'returns primary categories' do
     expect(Dirble::Category.primary.count).to eq(14)
   end
+
+  it 'finds category by id' do
+    category = Dirble::Category.find(2)
+    expect(category.name).to eq('Rock')
+  end
+
+  it 'gets first category' do
+    category = Dirble::Category.first
+    expect(category.name).to eq('40s')
+  end
 end

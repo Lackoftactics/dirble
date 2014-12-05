@@ -9,27 +9,25 @@ module Dirble
     end
 
     def self.all
-      response = Dirble.connection.exec_query(
+      call_api_with_results(
         request_type: :get,
         query: 'categories/apikey/{{api_key}}'
-      ).body
-      build_from_api_response(response)
+      )
+    end
+
+    def self.find(category_id)
+      all.select { |category| category.id == category_id }.first
+    end
+
+    def self.first
+      all.first
     end
 
     def self.primary
-      response = Dirble.connection.exec_query(
+      call_api_with_results(
         request_type: :get,
         query: 'primaryCategories/apikey/{{api_key}}'
-      ).body
-      build_from_api_response(response)
-    end
-
-    def self.build_from_api_response(response)
-      parsed = JSON.parse(response)
-      categories = Array(parsed)
-      categories.each_with_object([]) do |category_params, collection|
-        collection << Category.new(category_params.with_indifferent_access)
-      end
+      )
     end
   end
 end
