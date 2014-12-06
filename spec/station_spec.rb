@@ -26,11 +26,17 @@ describe Dirble::Station do
     it 'gets individual station' do
 
     end
+
+    it 'owns song history' do
+      station = Dirble::Station.find(100)
+      #expect(station.song_history).to_not be_empty
+      expect(station.song_history.first.name).to eq('Great song')
+    end
   end
 
   context 'create' do
     it 'creates station with status 1 when valid params' do
-      params_for_creation = { 
+      params_for_creation = {
         name: 'New station',
         website: 'www.new-station.com',
         directory: 'Pop'

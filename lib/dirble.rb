@@ -5,6 +5,7 @@ require 'dirble/configurable'
 require 'dirble/connection'
 require 'dirble/category'
 require 'dirble/primary_category'
+require 'dirble/song'
 require 'dirble/station'
 
 require 'dirble/version'

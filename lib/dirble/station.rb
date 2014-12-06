@@ -5,7 +5,8 @@ module Dirble
     extend Dirble::SimpleApiModel
 
     attr_accessor :id, :name, :stream_url, :description, :website, :url_id,
-      :song_history, :categories, :country, :bitrate, :status
+      :categories, :country, :bitrate, :status
+    attr_reader :song_history
 
     def initialize(options)
       self.id = options[:id]
@@ -14,6 +15,13 @@ module Dirble
       self.country = options[:country]
       self.bitrate = options[:bitrate]
       self.status = options[:status]
+      self.song_history = Array(options[:songhistory])
+    end
+
+    private
+
+    def song_history=(list_of_songs)
+      Dirble::Song.factory(list_of_songs)
     end
 
     class << self
@@ -24,6 +32,13 @@ module Dirble
           request_type: :post,
           query: 'station/apikey/{{api_key}}',
           form_fields: params
+        ).first
+      end
+
+      def find(station_id)
+        call_api_with_results(
+          request_type: :get,
+          query: "station/apikey/{{api_key}}/id/#{station_id}"
         ).first
       end
 
