@@ -1,7 +1,9 @@
 require 'sinatra/base'
+require 'sinatra/json'
 require 'sinatra/namespace'
 
 class FakeDirbleApi < Sinatra::Base
+  helpers Sinatra::JSON
   register Sinatra::Namespace
 
   namespace '/v1' do
@@ -42,7 +44,15 @@ class FakeDirbleApi < Sinatra::Base
     end
 
     post '/station/apikey/:apikey' do
-      json_response 200, 'add_station.json'
+      content_type :json
+      create_station_response = { name: params[:name], website: params[:website], directory: params[:directory] }
+      if %w{name website directory}.all? { |field| params.keys.include?(field) }
+        status 200
+        json create_station_response.merge(status: 1)
+      else
+        status 422
+        json create_station_response.merge(status: 0)
+      end
     end
 
     get '/amountStation/apikey/:apikey' do

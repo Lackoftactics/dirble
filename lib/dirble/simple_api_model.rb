@@ -13,7 +13,7 @@ module Dirble
     end
 
     def parsed_collection(json_response)
-      Array(JSON.parse(json_response))
+      Array.wrap(JSON.parse(json_response))
     end
   end
 end

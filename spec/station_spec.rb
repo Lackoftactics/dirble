@@ -28,6 +28,18 @@ describe Dirble::Station do
     end
   end
 
+  context 'create' do
+    it 'creates station with status 1 when valid params' do
+      params_for_creation = { 
+        name: 'New station',
+        website: 'www.new-station.com',
+        directory: 'Pop'
+      }
+      station = Dirble::Station.create(params_for_creation)
+      expect(station.status).to eq(1)
+    end
+  end
+
   context 'amount of station' do
     it 'gets number of currently registered stations' do
       expect(Dirble::Station.count).to eq(4502)
