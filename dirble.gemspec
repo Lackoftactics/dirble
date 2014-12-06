@@ -26,8 +26,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry"
   spec.add_development_dependency "sinatra"
   spec.add_development_dependency "sinatra-contrib"
-  spec.add_development_dependency "activesupport"
-  spec.add_development_dependency "faraday"
-  spec.add_development_dependency "typhoeus"
+  spec.add_runtime_dependency "activesupport"
+  spec.add_runtime_dependency "faraday"
+  spec.add_runtime_dependency "typhoeus"
   spec.add_development_dependency "coveralls"
 end
