@@ -3,7 +3,7 @@ module Dirble
     attr_accessor :id, :image_url, :name, :title, :spotify_url, :played_on, :raw
 
     def info
-      Hash(raw.fetch('info'))
+      raw.fetch('info') || {}
     end
 
     def fetch_id
