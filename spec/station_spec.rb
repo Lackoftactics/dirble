@@ -23,8 +23,10 @@ describe Dirble::Station do
    end
 
   context 'station with details' do
-    it 'gets individual station' do
+    let!(:station) { Dirble::Station.find(100) }
 
+    it 'gets individual station with detailed info' do
+      expect([station.bitrate, station.website, station.id]).to eq(['128', 'http://radio252.fm', '11717'])
     end
 
     it 'owns song history' do
