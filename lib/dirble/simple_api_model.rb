@@ -7,8 +7,8 @@ module Dirble
     end
 
     def build_from_api_response(target_class, response)
-      parsed_collection(response).each_with_object([]) do |object_params, collection|
-        collection << target_class.new(object_params.with_indifferent_access)
+      parsed_collection(response).map do |object_params|
+        target_class.new(object_params.with_indifferent_access)
       end
     end
 
