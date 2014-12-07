@@ -67,6 +67,14 @@ Now you are ready to go.
 
   `category.stations`
 
+* Category details
+
+```ruby
+  category.id
+  category.name
+  category.description
+```
+
 ## Station
 
 * Search stations
@@ -77,13 +85,66 @@ Now you are ready to go.
 
   `Dirble::Station.by_continent('Asia')`
 
-* Stations by country
+* Stations by country using iso code
 
   `Dirble::Station.by_country('us')`
 
 * Stations amount. Check currently registered stations in Dirble.
 
   `Dirble::Station.count`
+
+* Find station by id
+
+  `Dirble::Station.find(100)`
+
+* Adding new station to directory (website, name and directory are
+  required fields)
+
+```ruby
+      params_for_creation = {
+        name: 'New station',
+        website: 'www.new-station.com',
+        directory: 'Pop'
+      }
+      Dirble::Station.create(params_for_creation)
+```
+
+* Station details
+
+```ruby
+station.name
+station.website
+station.bitrate
+station.directory
+station.description
+station.stream_url
+station.status
+```
+* Accessing song history by station, information available only after
+  `Dirble::Station.find(id)`
+
+  `station.song_history`
+
+## Song
+
+Songs in song history have many interesting informations.
+
+* Name and title
+
+  `song.name`
+  `song.title`
+
+* Spotify url
+
+  `song.spotify_url`
+
+* When last played on particular station
+
+  `song.played_on`
+
+## Coming features
+
+* Add parallel connections with Typhoeus
 
 ## Contributing
 
