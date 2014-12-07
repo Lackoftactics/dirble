@@ -21,7 +21,7 @@ module Dirble
     private
 
     def song_history=(list_of_songs)
-      Dirble::Song.factory(list_of_songs)
+      @song_history ||= Dirble::Song.factory(list_of_songs)
     end
 
     class << self

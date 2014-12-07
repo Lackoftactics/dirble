@@ -30,7 +30,7 @@ describe Dirble::Station do
     it 'owns song history' do
       station = Dirble::Station.find(100)
       #expect(station.song_history).to_not be_empty
-      expect(station.song_history.first.name).to eq('Great song')
+      expect(station.song_history.first.name).to eq('Blackfoot')
     end
   end
 
