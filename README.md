@@ -89,6 +89,10 @@ Now you are ready to go.
 
   `Dirble::Station.by_country('us')`
 
+* Stations by country name
+
+  `Dirbel::Station.by_country_name('United States')`
+
 * Stations amount. Check currently registered stations in Dirble.
 
   `Dirble::Station.count`
