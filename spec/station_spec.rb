@@ -20,6 +20,11 @@ describe Dirble::Station do
       station = Dirble::Station.by_country('us').first
       expect(station.country).to eq('US')
     end
+
+    it 'returns station filtered by country name' do
+      station = Dirble::Station.by_country_name('United States').first
+      expect(station.country).to eq('US')
+    end
    end
 
   context 'station with details' do

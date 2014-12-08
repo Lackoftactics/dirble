@@ -1,3 +1,5 @@
+require 'iso_country_codes'
+
 module Dirble
   class Station
     REQUIRED_FIELDS = [:name, :website, :directory]
@@ -61,6 +63,11 @@ module Dirble
           request_type: :get,
           query: "country/apikey/{{api_key}}/country/#{code}"
         )
+      end
+
+      def by_country_name(country_name)
+        code = IsoCountryCodes.search_by_name(country_name).first.alpha2
+        by_country(code)
       end
 
       def count

@@ -30,5 +30,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "activesupport"
   spec.add_runtime_dependency "faraday"
   spec.add_runtime_dependency "typhoeus"
+  spec.add_runtime_dependency "iso_country_codes"
   spec.add_development_dependency "coveralls"
 end
