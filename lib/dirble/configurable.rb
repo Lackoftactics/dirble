@@ -9,7 +9,7 @@ module Dirble
     end
 
     def prepare_connection
-      raise ArgumentError, 'You have to set api key in configure' unless self.api_key
+      fail ArgumentError, 'You have to set api key in configure' unless self.api_key
       self.connection = Dirble::Connection.new
     end
 

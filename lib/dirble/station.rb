@@ -7,7 +7,7 @@ module Dirble
     extend Dirble::SimpleApiModel
 
     attr_accessor :id, :name, :stream_url, :description, :website, :url_id,
-      :categories, :country, :bitrate, :status
+                  :categories, :country, :bitrate, :status
     attr_reader :song_history
 
     def initialize(options)
@@ -27,7 +27,6 @@ module Dirble
     end
 
     class << self
-
       def create(params)
         guard_creation_of_station(params)
         call_api_with_results(
@@ -81,13 +80,16 @@ module Dirble
       private
 
       def guard_creation_of_station(params)
-        unless all_required_fields?(params.keys)
-          raise ArgumentError, 'You forgot about one of this keys: name, website, directory'
-        end
+        misssing_keys_for_creation unless all_required_fields?(params.keys)
       end
 
       def all_required_fields?(keys)
         REQUIRED_FIELDS.all? { |required_field| keys.include?(required_field) }
+      end
+
+      def missing_keys_for_creation
+        fail ArgumentError,
+             'You forgot about one of this keys: name, website, directory'
       end
     end
   end

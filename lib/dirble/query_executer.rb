@@ -24,7 +24,7 @@ module Dirble
     attr_accessor :connection, :request_type, :query, :form_fields
 
     def guard_query_params
-      raise Dirble::Errors::InvalidRequestType, 'Bad request type provided. Please use :get or :post' unless REQUEST_TYPES.include?(request_type)
+      fail Dirble::Errors::InvalidRequestType, 'Bad request type provided. Please use :get or :post' unless REQUEST_TYPES.include?(request_type)
     end
 
     def replace_placeholder_with_api_key
