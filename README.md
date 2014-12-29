@@ -9,7 +9,6 @@ Using familiar Rails syntax. It uses Faraday and Typhoeus as adapter.
 ## Compatibility
 
 * Ruby 1.9.3 and 2
-* JRuby 1.7
 * Rubinius
 
 ## Installation
